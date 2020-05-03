@@ -1,2 +1,3 @@
 # upload-file-spring
- Simple upload API using spring
+POST endpoint: http://localhost:8080/upload
+Parameter: file
